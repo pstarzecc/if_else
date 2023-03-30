@@ -12,4 +12,5 @@ int main()
         cout<<"bledny czas"<<endl;
     }
     return 0;
+    //
 }
